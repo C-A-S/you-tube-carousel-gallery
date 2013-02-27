@@ -6,7 +6,7 @@
 Plugin Name:  You tube Carousel Gallery
 Plugin URI:   http://www.designaeon.com/youtube-carousel-gallery.
 Description:  Create You tube video Marry go round .Comes with pretty photo Effect combining with jquery image flow.Feches you tube video's images from channel ,or via id or search.
-Version:      1.0
+Version:      1.0.1
 Author:       Ramandeep Singh
 Author URI:   http://www.designaeon.com/
 License: GPLv2
@@ -423,6 +423,16 @@ class youtubeCarouselGallery{
 			<!--The Options Page -->
 			<div class="wrap">
 				<h2>Youtube Carousel Gallery Options</h2>
+				<div class="ad">
+					<script type="text/javascript"><!--
+					google_ad_client = "ca-pub-4609862628205520";
+					/* da_leaderboard */
+					google_ad_slot = "3030301611";
+					google_ad_width = 728;
+					google_ad_height = 90;
+					//--></script><script type="text/javascript"
+					src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+				</div>
 				<form method="post">
 					<?php wp_nonce_field('youtubecarouselgallery_options'); ?>
 					<input type="hidden" name="action" value="update" />

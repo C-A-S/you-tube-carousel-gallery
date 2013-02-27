@@ -10,7 +10,7 @@ Tags: youtube carousel gallery,carousel gallery wordpress,Youtube gallery,you tu
 
 Requires at least: 3.0
 
-Tested up to: 3.4.2
+Tested up to: 3.5.1
 
 Stable tag: trunck
 
@@ -59,6 +59,9 @@ Installation Guide:
 
 
 == Changelog ==
+
+= 1.0.1 =
+* Minor Bug Fix
 
 = 1.0 =
 
